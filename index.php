@@ -20,6 +20,10 @@
 		<h2>Golden Circles</h2>
 		<img src="image/golden circle.jpg" alt="golden circle"/>
 		<h2>Elevater Pitch</h2>
-		<p>Hello, My name is Dannielle</p>
+		<p>Hello, My name is Dannielle, I would like to help businesses improve there sales, with a well designed web page.
+			By taking clases I am able to advance my skills in the coding system and perfect my technique. I plan to become
+			a more efficiant web designer.Do you have a web page?
+		</p>
+		<p>Marty Binacci is my Buddy</p>
 	</body>
 </html>
