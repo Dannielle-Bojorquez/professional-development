@@ -18,6 +18,6 @@
 			<li>Ambitious: I am willing to jump in and try new things</li>
 		</ul>
 		<h2>Golden Circles</h2>
-
+		<img src="image/golden circle.jpg" alt="golden circle"/>
 	</body>
 </html>
