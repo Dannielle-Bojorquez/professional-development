@@ -12,6 +12,12 @@
 			<li>I also have supervisory experiance in resturants</li>
 		</ul>
 		<h2>Qualitative</h2>
-		<p> </p>
+		<ul>
+			<li>I am personable, very friendly and a people person</li>
+			<li>Punctual and present:I like to be on time and ready for my task</li>
+			<li>Ambitious: I am willing to jump in and try new things</li>
+		</ul>
+		<h2>Golden Circles</h2>
+
 	</body>
 </html>
