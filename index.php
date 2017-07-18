@@ -4,7 +4,7 @@
 		<title>Professional Development</title>
 	</head>
 	<body>
-		<h1>Dannielle Bojorquez Professional Development</h1>
+		<h1>Dannielle Bojorquez's Professional Development</h1>
 		<h2>Quantitative</h2>
 		<ul>
 			<li>10 plus years in customer service experiance</li>
