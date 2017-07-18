@@ -24,6 +24,13 @@
 			By taking clases I am able to advance my skills in the coding system and perfect my technique. I plan to become
 			a more efficiant web designer.Do you have a web page?
 		</p>
+		<h2>Learning Style</h2>
+		<ul>
+			<li>Auditory: 35%</li>
+			<li>Visual: 35%</li>
+			<li>Tactile: 30%</li>
+		</ul>
+		<p>I am a  Auditory/Visual learner</p>
 		<p>Marty Binacci is my Buddy</p>
 	</body>
 </html>
