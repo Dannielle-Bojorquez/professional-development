@@ -7,9 +7,9 @@
 		<h1>Dannielle Bojorquez's Professional Development</h1>
 		<h2>Quantitative</h2>
 		<ul>
-			<li>10 plus years in customer service experiance</li>
+			<li>10 plus years of customer service experiance</li>
 			<li>5 years in a hospital setting</li>
-			<li>I also have supervisory experiance in resturants</li>
+			<li>I also have a few years of supervisory experiance in resturant's</li>
 		</ul>
 		<h2>Qualitative</h2>
 		<ul>
@@ -21,7 +21,7 @@
 		<img src="image/golden circle.jpg" alt="golden circle"/>
 		<h2>Elevater Pitch</h2>
 		<p>Hello, My name is Dannielle, I would like to help businesses improve there sales, with a well designed web page.
-			By taking clases I am able to advance my skills in the coding system and perfect my technique. I plan to become
+			By taking class's I am able to advance my skills in the coding system and perfect my technique. I plan to become
 			a more efficiant web designer.Do you have a web page?
 		</p>
 		<h2>Learning Style</h2>
