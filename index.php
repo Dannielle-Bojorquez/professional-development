@@ -19,5 +19,7 @@
 		</ul>
 		<h2>Golden Circles</h2>
 		<img src="image/golden circle.jpg" alt="golden circle"/>
+		<h2>Elevater Pitch</h2>
+		<p>Hello, My name is Dannielle</p>
 	</body>
 </html>
