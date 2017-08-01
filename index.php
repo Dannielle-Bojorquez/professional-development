@@ -32,7 +32,9 @@
 		</ul>
 		<p>I am a  Auditory/Visual learner</p>
 		<p>Marty Binacci is my Buddy</p>
-
+		<a href="https://bootcamp-coders.cnm.edu/~dbojorquez/professional-development/resume.php">
+			My Resume
+		</a>
 		<h1>Capstone Team</h1>
 		<p>My team seemed to work very well during the game. Alex defiantly likes to lead, I cant tell what roles the rest
 			of us played but we beat the game twice using team work. I feel very confident in our team.</p>
