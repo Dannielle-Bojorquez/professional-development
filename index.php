@@ -5,6 +5,9 @@
 	</head>
 	<body>
 		<h1>Dannielle Bojorquez's Professional Development</h1>
+		<a href="http://linkedin.com/in/dannielle-bojorquez-83b35b148">
+			LinkedIn profile
+		</a>
 		<h2>Quantitative</h2>
 		<ul>
 			<li>10 plus years of customer service experiance</li>
@@ -38,5 +41,14 @@
 		<h1>Capstone Team</h1>
 		<p>My team seemed to work very well during the game. Alex defiantly likes to lead, I cant tell what roles the rest
 			of us played but we beat the game twice using team work. I feel very confident in our team.</p>
+		<h2>Peer Interview</h2>
+		<p>What are internal and external factors keeping you from achieving your goal?</p>
+		<p>Self motivation, wanting to be with my kids</p>
+
+		<p>How do you personally create value for others?</p>
+		<p>By making sure I am a contributing member of the team</p>
+
+		<p>Has anyone ever told you that you got potential professionally? Do you believe it? Why, Why not?</p>
+			<p>Yes, no i don't believe them I normally underestimate my abilities</p>
 	</body>
 </html>

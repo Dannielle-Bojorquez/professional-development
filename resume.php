@@ -7,12 +7,9 @@
 	</head>
 	<body>
 		<h1>Dannielle Bojorquez</h1>
-		<h3>Albuquerque, NM (87105)</h3>
+		<h3>Albuquerque, NM</h3>
 		<h3>(dannielle.bojorquez@gmail.com) – (5054330504)</h3>
-		<p>I am seeking to be part of a high performing team, providing quality service to the community. I would like to enhance
-			skills that I already have while acquiring new ones. Excellent communication skills along with very solid customer
-			service knowledge. Authorized to work in the US for any employer</p>
-
+		<p>I am seeking to be part of a high performing team, providing quality service to the community. I would like to enhance skills that I already have while acquiring new ones.</p>
 		<h2>Work Experiance</h2>
 		<h3>Er Registrar</h3>
 		<p>Presbyterian Hospital  - Albuquerque, NM – (2012) to (current)</p>
@@ -56,19 +53,18 @@
 			<li>Processing sales quickly, accurately, and efficiently</li>
 		</ul>
 		<h2>Education</h2>
-		<p>College - CNM - Albuquerque,NM - Present</p>
-		<p>High School - Rio Grande - Albuquerque,NM - 2006</p>
+		<p>Deep Dive Bootcamp - CNM - Albuquerque,NM - Present</p>
+
 		<h2>Skills</h2>
 		<ul>
-			<li>Enjoy working with public</li>
-			<li>Detailed and People orientated</li>
-			<li>Great team player</li>
+			<li>PHP</li>
+			<li>CSS3</li>
+			<li>angular</li>
 			<li>Quick learner</li>
-			<li>Excellent knowledge of the clerical and computer skills like word, excel, outlook, access.</li>
-			<li>Data entry and filing.</li>
+			<li>Knowledge of the clerical and computer skills like word, excel, outlook, access.</li>
+			<li>Data entry</li>
 			<li>Exceptionally good demonstration skills and communication skills both verbally and written.</li>
 			<li>Reliable, Self-starter, motivated</li>
-			<li>Basic knowledge</li>
 			<li>Experience in Micros and Epic.</li>
 		</ul>
 
