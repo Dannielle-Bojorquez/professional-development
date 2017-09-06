@@ -8,11 +8,15 @@
 		<a href="http://linkedin.com/in/dannielle-bojorquez-83b35b148">
 			LinkedIn profile
 		</a>
+		<p>My Personal Website</p>
+		<a href="https://bootcamp-coders.cnm.edu/~dbojorquez/pwp-project/public_html/index.php">
+			Dannielle PWP
+		</a>
 		<h2>Quantitative</h2>
 		<ul>
-			<li>10 plus years of customer service experiance</li>
+			<li>10 plus years of customer service experience</li>
 			<li>5 years in a hospital setting</li>
-			<li>I also have a few years of supervisory experiance in resturant's</li>
+			<li>I also have a few years of supervisory experience in restaurant's</li>
 		</ul>
 		<h2>Qualitative</h2>
 		<ul>
@@ -25,7 +29,7 @@
 		<h2>Elevater Pitch</h2>
 		<p>Hello, My name is Dannielle, I would like to help businesses improve there sales, with a well designed web page.
 			By taking class's I am able to advance my skills in the coding system and perfect my technique. I plan to become
-			a more efficiant web designer.Do you have a web page?
+			a more efficient web designer.Do you have a web page?
 		</p>
 		<h2>Learning Style</h2>
 		<ul>
@@ -43,7 +47,7 @@
 			of us played but we beat the game twice using team work. I feel very confident in our team.</p>
 		<h2>Peer Interview</h2>
 		<p>What are internal and external factors keeping you from achieving your goal?</p>
-		<p>Self motivation, wanting to be with my kids</p>
+		<p>Self motivation wanting to be with my kids</p>
 
 		<p>How do you personally create value for others?</p>
 		<p>By making sure I am a contributing member of the team</p>

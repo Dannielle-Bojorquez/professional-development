@@ -10,7 +10,7 @@
 		<h3>Albuquerque, NM</h3>
 		<h3>(dannielle.bojorquez@gmail.com) – (5054330504)</h3>
 		<p>I am seeking to be part of a high performing team, providing quality service to the community. I would like to enhance skills that I already have while acquiring new ones.</p>
-		<h2>Work Experiance</h2>
+		<h2>Work Experience</h2>
 		<h3>Er Registrar</h3>
 		<p>Presbyterian Hospital  - Albuquerque, NM – (2012) to (current)</p>
 		<ul>
@@ -59,21 +59,19 @@
 		<ul>
 			<li>PHP</li>
 			<li>CSS3</li>
-			<li>angular</li>
-			<li>Quick learner</li>
-			<li>Knowledge of the clerical and computer skills like word, excel, outlook, access.</li>
+			<li>Angular</li>
+			<li>HTML</li>
+			<li>SQL</li>
+			<li>Javascript</li>
+			<li>Bootstrap3</li>
 			<li>Data entry</li>
-			<li>Exceptionally good demonstration skills and communication skills both verbally and written.</li>
+			<li>Quick learner</li>
 			<li>Reliable, Self-starter, motivated</li>
 			<li>Experience in Micros and Epic.</li>
 		</ul>
 
 		<h2>Referrals</h2>
-		<ul>
-			<li>Theresa West 505-697-0791</li>
-				<li>Vanessa Robles 505- 315-4862</li>
-				<li>Lauren Gallegos 505-217-5006</li>
-		</ul>
+		<p>Upon Request</p>
 	</body>
 </html>
 
